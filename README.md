@@ -1,2 +1,2 @@
 # Hospital-Management-System
-Hospital Management System for X Health Hospitals (PVT) Ltd
+Hospital Management System for X Health Hospitals (PVT) Ltd.
